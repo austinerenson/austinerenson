@@ -28,7 +28,7 @@ Multi-phase home lab on Azure — covers threat detection with Microsoft Sentine
 
 ---
 
-### 🟣 [Active Directory Attack & Defense Lab](https://github.com/austinerenson/ad-lab-home)) *(Active)*
+### 🟣 [Active Directory Attack & Defense Lab](https://github.com/austinerenson/ad-lab-home) *(Active)*
 On-prem AD environment for simulating common attack paths (Kerberoasting, Pass-the-Hash, DCSync) and building detections against them. Domain Controller + workstation setup with logging pipelines.
 
 `Windows Server` `Active Directory` `Kerberos` `PowerShell` `Splunk / Sentinel`
